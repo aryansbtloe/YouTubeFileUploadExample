@@ -24,9 +24,9 @@
 //constants related to youtube/////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////////
 static NSString *const kKeychainItemName = @"YouTubeMobile: YouTube";
-static NSString *const kMyClientID       = @"261092907164.apps.googleusercontent.com";
-static NSString *const kMyClientSecret   = @"3T94CKJLXzudB1p-CtvdnGBp";
-static NSString *const kMyDeveloperKey   = @"AI39si6Q4H82CkOesBF8sy5f4cPbUoyPm8T0Bctkr15q4su2Wjo2u9T3g7eliQA2QlnWICIhC-huB5yLHRhVQL_RetaE_z1QFQ";
+static NSString *const kMyClientID       = @"Put your client id here";
+static NSString *const kMyClientSecret   = @"Put your client secret here";
+static NSString *const kMyDeveloperKey   = @"Put your developer key here";
 ///////////////////////////////////////////////////////////////////////////////////////////////
 //constants related to youtube/////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////////
